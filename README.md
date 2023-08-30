@@ -4,8 +4,8 @@ This is the code repo for cleaning MOVER waveform data. The decode function is f
 
 ## Issues
 
-1. Lack of data dictionary about waveform types. What's the difference between 'ECG1' and 'GE_ECG'?
-2. Some samples have inconsistent waveforms. The half of 'ECG1' is a straight line, for example (id=696793e068608e7c)
+1. Is there a data dictionary for the waveform data. What's the difference between 'ECG1' and 'GE_ECG'?
+2. Is there existing open source cleaning code for inconsistent waveforms? The half of 'ECG1' is a straight line, for example (id=696793e068608e7c)
 
 ![id=696793e068608e7c](./fig/ecg2.png)
 
